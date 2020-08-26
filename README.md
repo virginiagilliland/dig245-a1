@@ -1,2 +1,3 @@
-# critical-web-design-template
- Fork me!
+# critical-web-design template
+
+A skeleton for class projects
