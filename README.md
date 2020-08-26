@@ -2,4 +2,6 @@
 
 A skeleton for class projects
 
-Edit it from Github.com
+1. Edit it from Github.com
+
+2. Edit from Atom Editor
